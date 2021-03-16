@@ -1,0 +1,37 @@
+{
+  "name": "foundryvtt-i18n-message-format",
+  "title": "foundryvtt-i18n-message-format",
+  "description": "",
+  "version": "0.0.1",
+  "author": "",
+  "authors": [
+    {
+      "name": "Sabrina Mühlgrabner",
+      "email": ""
+    }
+  ],
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "scripts": [],
+  "esmodules": ["module/foundryvtt-i18n-message-format.js"],
+  "styles": ["styles/foundryvtt-i18n-message-format.css"],
+  "packs": [],
+  "dependencies": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "url": "",
+  "manifest": "",
+  "download": "https://host/path/to/0.0.0.zip",
+  "license": "",
+  "readme": "",
+  "bugs": "",
+  "changelog": "",
+  "system": [],
+  "library": false
+}
